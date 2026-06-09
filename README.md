@@ -11,3 +11,7 @@ Lucas Gomes Alcântara / RM98766 Henrique Canali Cuzato / RM551326
 Filipe Prado Menezes / RM98765 
 Cássio Eid Kobaysahi Yonetsuka / RM99678
 Pedro henrique Salvitti Habiro / RM88166
+
+Link do vídeo demonstrativo
+
+https://youtu.be/cYLbKaZH0Ro
